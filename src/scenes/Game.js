@@ -1,6 +1,5 @@
 import { Scene } from "phaser";
 import { Paddle } from "../entities/Paddle";
-import { Ball } from "../entities/Ball"; 
 import { Brick } from "../entities/Brick";
 import { WallBrick } from "../entities/WallBrick";
 
